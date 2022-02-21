@@ -1,4 +1,4 @@
 module.exports = {
     pathPrefix: "/",
-    origin: "https://data.wdr.de",
+    origin: "https://quiz-klima.netlify.app",
 }
