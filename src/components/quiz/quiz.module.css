@@ -34,7 +34,7 @@ button .icon svg {
   stroke: currentColor;
   fill: currentColor;
   vertical-align: top;
-  margin-top: 1px;
+  margin-top: 3.5px;
   transform: translateX(-25px);
   animation: fade-in 0.25s ease-in-out;
   animation-fill-mode: forwards;
@@ -262,7 +262,7 @@ button .icon svg {
 
 .score .scorePost {
   display: block;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   text-align: center;
   padding: 0 1rem;
 }
@@ -295,7 +295,19 @@ button .icon svg {
   }
 
   .score .scoreNumbers {
-    margin-top: -2.5rem;
-    margin-bottom: -2rem;
+    margin-top: -2rem;
+    margin-bottom: -1.5rem;
+  }
+
+  .score .scoreCorrect {
+    font-size: 6rem;
+  }
+
+  .score .scoreMax {
+    font-size: 3rem;
+  }
+
+  .score .scorePost {
+    font-size: 1.2rem;
   }
 }
