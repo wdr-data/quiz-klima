@@ -125,8 +125,8 @@ button .icon svg {
 
 .quiz .result .actionContainer {
   position: absolute;
-  top: 50%;
-  margin-top: -15px;
+  top: 30px;
+  margin-top: 0;
   left: 0;
   right: 0;
   z-index: 1;
@@ -158,6 +158,13 @@ button .icon svg {
 
 .quiz .result .text :last-child {
   margin-bottom: 10px;
+}
+
+@media (min-width: 600px) {
+  .quiz .result .actionContainer {
+    top: 50%;
+    margin-top: -15px;
+  }
 }
 
 /* Score styles */
