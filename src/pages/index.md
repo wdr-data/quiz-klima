@@ -31,7 +31,7 @@ Minim culpa ea nisi pariatur cillum quis excepteur deserunt ullamco mollit fugia
 
 ## Wohnen
 
-Wer wohnt, erzeugt CO<sub>2</sub> - durch Warmwasser, Raumwärme, Beleuchtung, Elektrogeräte und Prozesswärme (Kochen/Waschen).
+Das Wohnen verursacht einen großen Teil der privat verursachten Treibhausgabe - durch Warmwasser, Raumwärme, Beleuchtung, Prozesswärme (Kochen/Waschen) und Elektrogeräte.
 
 <Quiz>
 <QuizImage src="Heizungsregler_Quelle_imago_photothek_Liesa_Johannssen.png" alt="Eine Hand dreht an einem Heizungsregler."/>
@@ -41,38 +41,89 @@ Wer wohnt, erzeugt CO<sub>2</sub> - durch Warmwasser, Raumwärme, Beleuchtung, E
 <Answer correct>68 %</Answer>
 <Answer>81 %</Answer>
 <Result>
-Richtig ist: Die Raumwärme verursacht mit **68 %** den mit Abstand größten CO-Ausstoß im Bereich Wohnen, so das [Statistische Bundesamt](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Umwelt/UGR/private-haushalte/Publikationen/Downloads/haushalte-umwelt-pdf-5851319.html;jsessionid=C1016A413EE3ED349CA17A88F495C630.live712) für das Jahr 2019. Wer weniger heizt, schont das Klima. Schon ein Grad weniger macht viel aus. Die anderen Anwendungsbereiche verursachen so viel CO2: Warmwasser 12 %, Elektrogeräte 11 %, Prozesswärme (Waschen/Kochen) 7 %, Beleuchtung 2 %.
+Richtig ist: Die Raumwärme verursacht mit **68 %** den mit Abstand größten CO<sub>2</sub>-Ausstoß im Bereich Wohnen, so das [Statistische Bundesamt](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Umwelt/UGR/private-haushalte/Publikationen/Downloads/haushalte-umwelt-pdf-5851319.html;jsessionid=C1016A413EE3ED349CA17A88F495C630.live712) für das Jahr 2019. Wer weniger heizt, schont das Klima. Schon ein Grad weniger macht viel aus. Die anderen Anwendungsbereiche verursachen so viel CO<sub>2</sub>: Warmwasser 12 %, Elektrogeräte 11 %, Prozesswärme (Waschen/Kochen) 7 %, Beleuchtung 2 %.
 </Result>
 </Quiz>
 
 
-Sint pariatur aliquip anim magna fugiat occaecat ut ullamco eu non commodo eu do elit. Cillum ad occaecat veniam quis ea consequat duis sit voluptate eu. Aute ut fugiat qui nulla nulla amet et. Officia eu ea ipsum exercitation ipsum commodo est nisi cillum est cupidatat. Ad amet duis irure qui sint dolor eiusmod ut aliqua labore aliquip enim.
+## Fliegen
+
+Fliegen ist die klimaschädlichste Art sich fortzubewegen, sagt das Bundesumweltamt. Dagegen sind sogar ältere Verbrenner-Autos klimaschonend.
 
 <Quiz>
-<Question>**Hier könnte ihre Frage stehen?**</Question>
-<Answer>Hier klicken!</Answer>
-<Answer>Foobar</Answer>
-<Answer>Richtige Antwort</Answer>
-<Answer correct>42</Answer>
+<Question>**Was schätzen sie: Wie viele Kilometer mit einem Mittelklassewagen entsprechen einem Hin- und Rückflug auf die Malediven (2 x 8.000 Kilometer)?**</Question>
+<Answer>mehr als 19.000 km</Answer>
+<Answer correct>mehr als 25.000 km</Answer>
+<Answer>mehr als 28.000 km</Answer>
+<Answer>mehr als 34.000 km</Answer>
 <Result>
-Natürlich ist **42** die richtige Antwort.
+Wer auf eine Flugreise auf die Malediven verzichtet, spart laut [Umweltbundesamt ](https://www.umweltbundesamt.de/umwelttipps-fuer-den-alltag/mobilitaet/flugreisen#gewusst-wie) etwa fünf Tonnen CO<sub>2</sub> ein. Mit einem Mittelklassewagen könnte man demnach mehr als 25.000 Kilometer fahren (bei einem Verbrauch von 7 Litern pro 100 Kilometern).
 </Result>
 </Quiz>
 
-Lorem dolore irure consequat ullamco sint culpa incididunt esse. Pariatur exercitation cillum occaecat consectetur culpa minim adipisicing laboris exercitation esse magna cupidatat. Labore magna quis excepteur velit officia excepteur ea proident sit enim ut. Pariatur minim anim officia consequat labore quis sit cupidatat.
+
+## E-Autos und Verbrenner
+
+Klimaschonender als Autos mit Verbrennungsmotor sind E-Autos und Hybrid-Fahrzeuge.
 
 <Quiz>
-<Question>**Hier könnte ihre Frage stehen?**</Question>
-<Answer>Richtige Antwort</Answer>
-<Answer>Hier klicken!</Answer>
-<Answer correct>42</Answer>
-<Answer>Foobar</Answer>
+<Question>**Um bis zu wie viel Prozent lässt sich der Ausstoß an Treibhausgasen reduzieren, wenn man von einem Verbrenner- auf ein E-Auto wechselt?**</Question>
+<Answer>57 %</Answer>
+<Answer>63 %</Answer>
+<Answer>78 %</Answer>
+<Answer correct>89 %</Answer>
 <Result>
-Natürlich ist **42** die richtige Antwort.
+Satte 89 % an Treibhausgasen lassen sich mit einem E-Auto gegenüber einem Auto mit Verbrennungsmotor einsparen. Mit einem Hybrid-Auto sind es immerhin 73 %. Zu diesem Ergebnis kommt eine Studie der [Universität der Bundeswehr München](https://www.unibw.de/home/news/elektrofahrzeuge-weisen-die-beste-CO<sub>2</sub>-bilanz-aus) vom Februar 2022. Verglichen wurden die Daten von 790 aktuellen Pkw-Modelle und -Varianten. Zu bedenken ist allerdings: Auch die Herstellung eines neuen Autos verursacht viele Treibhausgase.
 </Result>
 </Quiz>
 
-Ex ad do velit nostrud aliqua ex ad mollit tempor velit aute tempor. Occaecat deserunt do aliquip duis aute voluptate magna adipisicing eiusmod fugiat. Nisi minim aute sit fugiat sit nulla dolor exercitation ullamco quis fugiat eiusmod culpa nulla. Officia excepteur proident do exercitation cillum irure mollit elit laboris exercitation adipisicing.
+
+## Tierische Produkte
+
+Wer viel Fleisch ist, schadet dem Klima. Das trifft aber auch auf andere tierische Produkte zu.
+
+<Quiz>
+<Question>**Welches dieser tierischen Produkte (in Kilo) schadet dem Klima am meisten?**</Question>
+<Answer correct>Rindfleisch</Answer>
+<Answer>Schweinefleisch</Answer>
+<Answer>Käse</Answer>
+<Answer>Insekten-Food</Answer>
+<Result>
+Natürlich! Rindfleisch schadet dem Klima besonders stark - und das nicht nur durch CO<sub>2</sub>, sondern vor allem auch durch Methan. Alles zusammen entsprechen ein Kilo Rindfleisch 13,6 Kilo CO<sub>2</sub> (CO<sub>2</sub>-Äquivalente), so eine Berechnung des [Instituts für Energie- und Umweltforschung Heidelberg](https://www.ifeu.de/fileadmin/uploads/Reinhardt-Gaertner-Wagner-2020-Oekologische-Fu%C3%9Fabdruecke-von-Lebensmitteln-und-Gerichten-in-Deutschland-ifeu-2020.pdf). Andere tierische Produkte haben demnach diese CO<sub>2</sub>-Äquivalente: Schweinefleisch 4,6 kg, Hähnchen 5,5 kg, Fisch (Wildfang, Massenware, gefroren) 2,4 kg, Käse 5,7 kg. Bei der Produktion von einem Kilo Insekten-Food entstehen etwa 1,5 kg CO<sub>2</sub>-Äquivalente, so das [Umweltbundesamt](https://www.umweltbundesamt.de/publikationen/die-zukunft-im-blick-fleisch-der-zukunft) mit Verweis auf eine [Studie von 2015](https://doi.org/10.1007/s11367-015-0931-6). 
+</Result>
+</Quiz>
+
+
+## Obst und Gemüse
+
+Vegetarisches und veganes Essen schont das Klima. Aber auch bei Obst und Gemüse gibt es große Unterschiede.
+
+<Quiz>
+<Question>**Welches Obst oder Gemüse (in Kilo) ist klimafreundlicher als die anderen?**</Question>
+<Answer correct>Frische Karotten</Answer>
+<Answer>Ananas</Answer>
+<Answer>Tomaten aus Südeuropa</Answer>
+<Answer>Frische Winter-Erdbeeren</Answer>
+<Result>
+Nur wenige Treibhausgase entstehen zum Beispiel durch frische Karotten. Ein Kilo verursacht nach Angaben des [Instituts für Energie- und Umweltforschung Heidelberg](https://www.ifeu.de/fileadmin/uploads/Reinhardt-Gaertner-Wagner-2020-Oekologische-Fu%C3%9Fabdruecke-von-Lebensmitteln-und-Gerichten-in-Deutschland-ifeu-2020.pdf) 0,2 Kilo CO<sub>2</sub>-Äquivalente - so viel wie auch Kartoffeln oder Bio-Äpfel. Ananas verursacht im Schnitt 0,9 kg - Flug-Ananas allerdings 15,1 kg. Frische Winter-Erdbeeren verursachen 3,4 kg, regionale, saisonale Erdbeeren 0,3 kg, Tomaten aus Südeuropa (Freiland) 0,4 kg.
+</Result>
+</Quiz>
+
+
+## Kleidung
+
+Auch die Herstellung und der Transport von Kleidung sind Mitverursacher der Klima-Krise.
+
+<Quiz>
+<Question>**Wie viel Prozent der weltweiten Treibhausgasemissionen entstehen bei der Herstellung von Kleidung und Schuhen?**</Question>
+<Answer>3 %</Answer>
+<Answer>5 %</Answer>
+<Answer>7 %</Answer>
+<Answer correct>10 %</Answer>
+<Result>
+Schätzungen zufolge verursacht die Modebranche 10 Prozent der weltweiten CO<sub>2</sub>-Emissionen, informiert das [Europäische Parlament](https://www.europarl.europa.eu/news/de/headlines/society/20201208STO93327/umweltauswirkungen-von-textilproduktion-und-abfallen-infografik?). Das ist mehr als die internationale Luftfahrt und See-Schifffahrt zusammen (3,4 und 3,2 Prozent). Nach Angaben der [Europäischen Umweltagentur](https://www.eea.europa.eu/publications/textiles-in-europes-circular-economy/textiles-in-europe-s-circular-economy) wurden durch den Kauf von Textilien in der Europäischen Union im Jahr 2017 pro Person rund 654 kg CO<sub>2</sub>-Emissionen verursacht. 
+</Result>
+</Quiz>
 
 <QuizScore
 images={{
