@@ -14,5 +14,6 @@
 ### Credits
 
 **Autor:** Jörn Seidel <br/>
+**Bildrecherche:** Luita Hantzopoulos <br/>
 **Redaktion:** Axel Klauwer, Birgit Becker <br/>
 **Programmierung:** Jannes Höke
