@@ -39,7 +39,7 @@ Minim culpa ea nisi pariatur cillum quis excepteur deserunt ullamco mollit fugia
 <Answer correct>68 %</Answer>
 <Answer>81 %</Answer>
 <Result>
-Richtig ist: Die Raumwärme verursacht mit **68 %** den mit Abstand größten CO2-Ausstoß im Bereich Wohnen, so das [Statistische Bundesamt](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Umwelt/UGR/private-haushalte/Publikationen/Downloads/haushalte-umwelt-pdf-5851319.html;jsessionid=C1016A413EE3ED349CA17A88F495C630.live712) für das Jahr 2019. Wer weniger heizt, schont das Klima. Jedes Grad weniger spart Heizenergie. Die anderen Anwendungsbereiche verursachen so viel CO2: Warmwasser 12 %, Elektrogeräte 11 %, Prozesswärme (Waschen/Kochen) 7 %, Beleuchtung 2 %.
+Richtig ist: Die Raumwärme verursacht mit **68 %** den mit Abstand größten CO2-Ausstoß im Bereich Wohnen, so das [Statistische Bundesamt](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Umwelt/UGR/private-haushalte/Publikationen/Downloads/haushalte-umwelt-pdf-5851319.html;jsessionid=C1016A413EE3ED349CA17A88F495C630.live712) für das Jahr 2019. Wer weniger heizt, schont das Klima. Schon ein Grad weniger macht viel aus. Die anderen Anwendungsbereiche verursachen so viel CO2: Warmwasser 12 %, Elektrogeräte 11 %, Prozesswärme (Waschen/Kochen) 7 %, Beleuchtung 2 %.
 </Result>
 </Quiz>
 
