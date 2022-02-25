@@ -137,9 +137,9 @@ texts={{
     1: "Immerhin! Und jetzt wissen Sie noch mehr.",
     2: "Nicht schlecht! Klimaschutz ist Ihnen vertraut.",
     3: "Gut! Sie kennen sich aus mit Klimaschutz.",
-    4: "Sehr gut! Sie kennen sich aus mit Klimaschutz.",
+    4: "Sehr gut! Sie haben wirklich Ahnung, wie man das Klima schützen kann.",
     5: "Hervorragend! Fast alle Fragen richtig beantwortet.",
-    6: "Ausgezeichnet! Sie kennen sich wirklich aus.",
+    6: "Ausgezeichnet! Sie kennen sich wirklich aus in Sachen Klimaschutz.",
 }}
 />
 
