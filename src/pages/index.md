@@ -1,6 +1,6 @@
 ---
 title: 'WDR-Quiz zum Klima-Schutz'
-description: Klima-Wandel: Das WDR-Quiz zum Klima-Schutz
+description: 'Klima-Wandel: Das WDR-Quiz zum Klima-Schutz'
 author: Jörn Seidel
 pub_date: '2022-02-28'
 heroImage: 'Klima-Schutz-Hand-haelt-Erde-picture alliance -Bildagentur-online-Ohde.jpg'
@@ -29,7 +29,6 @@ import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore 
 
 Welches Fleisch sollte man eher weniger essen, um den Klima-Wandel abzubremsen? Wie klimafreundlich sind E-Autos? Und wie viel Treibhausgase entstehen bei der Herstellung von Kleidung und Schuhen? Stellen Sie Ihr Wissen auf die Probe - bei WDR-Quiz zum Klima-Schutz!
 
-
 ## <span style="color:black">Wohnen</span>
 
 Das Wohnen verursacht einen großen Teil der privat verursachten Treibhausgabe - durch Warmwasser, Raumwärme, Beleuchtung, Prozesswärme (Kochen/Waschen) und Elektrogeräte.
@@ -46,13 +45,12 @@ Richtig ist: Die Raumwärme verursacht mit **68 %** den mit Abstand größten CO
 </Result>
 </Quiz>
 
-
 ## <span style="color:black">Fliegen</span>
 
 Fliegen ist die klimaschädlichste Art sich fortzubewegen, sagt das Bundesumweltamt. Dagegen sind sogar ältere Verbrenner-Autos klimaschonend.
 
 <Quiz>
-<QuizImage src="<QuizImage src="Flugzeug-und-Klima-imago-Robert-Michael.jpg"/>" alt="Klima-Wandel: Ein Flugzeug am Himmel"/>
+<QuizImage src="Flugzeug-und-Klima-imago-Robert-Michael.jpg" alt="Klima-Wandel: Ein Flugzeug am Himmel"/>
 <Question>**Was schätzen sie: Wie viele Kilometer mit einem Mittelklassewagen entsprechen einem Hin- und Rückflug auf die Malediven (2 x 8.000 Kilometer)?**</Question>
 <Answer>mehr als 19.000 km</Answer>
 <Answer correct>mehr als 25.000 km</Answer>
@@ -63,13 +61,12 @@ Wer auf eine Flugreise auf die Malediven verzichtet, spart laut [Umweltbundesamt
 </Result>
 </Quiz>
 
-
 ## <span style="color:black">E-Autos und Verbrenner</span>
 
 Klimaschonender als Autos mit Verbrennungsmotor sind E-Autos und Hybrid-Fahrzeuge.
 
 <Quiz>
-<QuizImage src="<QuizImage src="E-Auto-und-Klima-mauritius images- Johner.jpg"/>" alt="Klima-Schutz: Eine Frau hält das Ladekabel einer Strom-Zapfsäule an den Anschluss eines E-Autos."/>
+<QuizImage src="E-Auto-und-Klima-mauritius images- Johner.jpg" alt="Klima-Schutz: Eine Frau hält das Ladekabel einer Strom-Zapfsäule an den Anschluss eines E-Autos."/>
 <Question>**Um bis zu wie viel Prozent lässt sich der Ausstoß an Treibhausgasen reduzieren, wenn man von einem Verbrenner- auf ein E-Auto wechselt?**</Question>
 <Answer>57 %</Answer>
 <Answer>63 %</Answer>
@@ -80,30 +77,28 @@ Satte 89 % an Treibhausgasen lassen sich mit einem E-Auto gegenüber einem Auto 
 </Result>
 </Quiz>
 
-
 ## <span style="color:black">Tierische Produkte</span>
 
 Wer viel Fleisch ist, schadet dem Klima. Das trifft aber auch auf andere tierische Produkte zu.
 
 <Quiz>
-<QuizImage src="<QuizImage src="Fleisch-und-Klima-ddp-BO-Theißen.jpg"/>" alt="Klima-Wandel: An einer Selbstbedienungs-Fleisch-Theke greift eine Hand zu einer Packung Fleisch."/>
+<QuizImage src="Fleisch-und-Klima-ddp-BO-Theißen.jpg" alt="Klima-Wandel: An einer Selbstbedienungs-Fleisch-Theke greift eine Hand zu einer Packung Fleisch."/>
 <Question>**Welches dieser tierischen Produkte (in Kilo) schadet dem Klima am meisten?**</Question>
 <Answer correct>Rindfleisch</Answer>
 <Answer>Schweinefleisch</Answer>
 <Answer>Käse</Answer>
 <Answer>Insekten-Food</Answer>
 <Result>
-Natürlich! Rindfleisch schadet dem Klima besonders stark - und das nicht nur durch CO<sub>2</sub>, sondern vor allem auch durch Methan. Alles zusammen entsprechen ein Kilo Rindfleisch 13,6 Kilo CO<sub>2</sub> (CO<sub>2</sub>-Äquivalente), so eine Berechnung des [Instituts für Energie- und Umweltforschung Heidelberg](https://www.ifeu.de/fileadmin/uploads/Reinhardt-Gaertner-Wagner-2020-Oekologische-Fu%C3%9Fabdruecke-von-Lebensmitteln-und-Gerichten-in-Deutschland-ifeu-2020.pdf). Andere tierische Produkte haben demnach diese CO<sub>2</sub>-Äquivalente: Schweinefleisch 4,6 kg, Hähnchen 5,5 kg, Fisch (Wildfang, Massenware, gefroren) 2,4 kg, Käse 5,7 kg. Bei der Produktion von einem Kilo Insekten-Food entstehen etwa 1,5 kg CO<sub>2</sub>-Äquivalente, so das [Umweltbundesamt](https://www.umweltbundesamt.de/publikationen/die-zukunft-im-blick-fleisch-der-zukunft) mit Verweis auf eine [Studie von 2015](https://doi.org/10.1007/s11367-015-0931-6). 
+Natürlich! Rindfleisch schadet dem Klima besonders stark - und das nicht nur durch CO<sub>2</sub>, sondern vor allem auch durch Methan. Alles zusammen entsprechen ein Kilo Rindfleisch 13,6 Kilo CO<sub>2</sub> (CO<sub>2</sub>-Äquivalente), so eine Berechnung des [Instituts für Energie- und Umweltforschung Heidelberg](https://www.ifeu.de/fileadmin/uploads/Reinhardt-Gaertner-Wagner-2020-Oekologische-Fu%C3%9Fabdruecke-von-Lebensmitteln-und-Gerichten-in-Deutschland-ifeu-2020.pdf). Andere tierische Produkte haben demnach diese CO<sub>2</sub>-Äquivalente: Schweinefleisch 4,6 kg, Hähnchen 5,5 kg, Fisch (Wildfang, Massenware, gefroren) 2,4 kg, Käse 5,7 kg. Bei der Produktion von einem Kilo Insekten-Food entstehen etwa 1,5 kg CO<sub>2</sub>-Äquivalente, so das [Umweltbundesamt](https://www.umweltbundesamt.de/publikationen/die-zukunft-im-blick-fleisch-der-zukunft) mit Verweis auf eine [Studie von 2015](https://doi.org/10.1007/s11367-015-0931-6).
 </Result>
 </Quiz>
-
 
 ## <span style="color:black">Obst und Gemüse</span>
 
 Vegetarisches und veganes Essen schont das Klima. Aber auch bei Obst und Gemüse gibt es große Unterschiede.
 
 <Quiz>
-<QuizImage src="<QuizImage src="Klima-Obst-und-Gemuese-wdr-picture-alliance-dpa-peter-kneffel.jpg"/>" alt="Klima-Wandel: Verschiedene Obst- und Gemüse-Sorten liegt eng aneinander."/>
+<QuizImage src="Klima-Obst-und-Gemuese-wdr-picture-alliance-dpa-peter-kneffel.jpg" alt="Klima-Wandel: Verschiedene Obst- und Gemüse-Sorten liegt eng aneinander."/>
 <Question>**Welches Obst oder Gemüse (in Kilo) ist klimafreundlicher als die anderen?**</Question>
 <Answer correct>Frische Karotten</Answer>
 <Answer>Ananas</Answer>
@@ -114,20 +109,19 @@ Nur wenige Treibhausgase entstehen zum Beispiel durch frische Karotten. Ein Kilo
 </Result>
 </Quiz>
 
-
 ## <span style="color:black">Kleidung</span>
 
 Auch die Herstellung und der Transport von Kleidung sind Mitverursacher der Klima-Krise.
 
 <Quiz>
-<QuizImage src="<QuizImage src="Klima-und-Kleidung-wdr-dpa-Jens Kalaene.jpg"/>" alt="Klima-Wandel: Kleidungstücke hängen dicht an dicht an Bügeln in einem Geschäft."/>
+<QuizImage src="Klima-und-Kleidung-wdr-dpa-Jens Kalaene.jpg" alt="Klima-Wandel: Kleidungstücke hängen dicht an dicht an Bügeln in einem Geschäft."/>
 <Question>**Wie viel Prozent der weltweiten Treibhausgasemissionen entstehen bei der Herstellung von Kleidung und Schuhen?**</Question>
 <Answer>3 %</Answer>
 <Answer>5 %</Answer>
 <Answer>7 %</Answer>
 <Answer correct>10 %</Answer>
 <Result>
-Schätzungen zufolge verursacht die Modebranche 10 Prozent der weltweiten CO<sub>2</sub>-Emissionen, informiert das [Europäische Parlament](https://www.europarl.europa.eu/news/de/headlines/society/20201208STO93327/umweltauswirkungen-von-textilproduktion-und-abfallen-infografik?). Das ist mehr als die internationale Luftfahrt und See-Schifffahrt zusammen (3,4 und 3,2 Prozent). Nach Angaben der [Europäischen Umweltagentur](https://www.eea.europa.eu/publications/textiles-in-europes-circular-economy/textiles-in-europe-s-circular-economy) wurden durch den Kauf von Textilien in der Europäischen Union im Jahr 2017 pro Person rund 654 kg CO<sub>2</sub>-Emissionen verursacht. 
+Schätzungen zufolge verursacht die Modebranche 10 Prozent der weltweiten CO<sub>2</sub>-Emissionen, informiert das [Europäische Parlament](https://www.europarl.europa.eu/news/de/headlines/society/20201208STO93327/umweltauswirkungen-von-textilproduktion-und-abfallen-infografik?). Das ist mehr als die internationale Luftfahrt und See-Schifffahrt zusammen (3,4 und 3,2 Prozent). Nach Angaben der [Europäischen Umweltagentur](https://www.eea.europa.eu/publications/textiles-in-europes-circular-economy/textiles-in-europe-s-circular-economy) wurden durch den Kauf von Textilien in der Europäischen Union im Jahr 2017 pro Person rund 654 kg CO<sub>2</sub>-Emissionen verursacht.
 </Result>
 </Quiz>
 
@@ -147,8 +141,8 @@ texts={{
     2: "Gut! Klima-Schutz ist Ihnen vertraut.",
     3: "Gut! Sie kennen sich aus mit Klima-Schutz.",
     4: "Sehr gut! Sie kennen sich aus mit Klima-Schutz.",
-    5: "Hervorragend! Fast alle Fragen richtig beantwortet.",  
-    6: "Ausgezeichnet! Sie kennen sich wirklich aus.",                    
+    5: "Hervorragend! Fast alle Fragen richtig beantwortet.",
+    6: "Ausgezeichnet! Sie kennen sich wirklich aus.",
 }}
 />
 
