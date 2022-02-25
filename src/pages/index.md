@@ -27,7 +27,7 @@ import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore 
 
 # Das WDR-Quiz zum Klima-Schutz
 
-Welches Fleisch sollte man eher weniger essen, um den Klima-Wandel bremsen? Wie klimafreundlich sind E-Autos? Und wie viel Treibhausgase entstehen bei er Herstellung von Kleidung und Schuhen? Stellen Sie Ihr Wissen auf die Probe - bei WDR-Quiz zum Klima-Schutz!
+Welches Fleisch sollte man eher weniger essen, um den Klima-Wandel abzubremsen? Wie klimafreundlich sind E-Autos? Und wie viel Treibhausgase entstehen bei der Herstellung von Kleidung und Schuhen? Stellen Sie Ihr Wissen auf die Probe - bei WDR-Quiz zum Klima-Schutz!
 
 
 ## <span style="color:black">Wohnen</span>
@@ -52,6 +52,7 @@ Richtig ist: Die Raumwärme verursacht mit **68 %** den mit Abstand größten CO
 Fliegen ist die klimaschädlichste Art sich fortzubewegen, sagt das Bundesumweltamt. Dagegen sind sogar ältere Verbrenner-Autos klimaschonend.
 
 <Quiz>
+<QuizImage src="<QuizImage src="Flugzeug-und-Klima-imago-Robert-Michael.jpg"/>" alt="Klima-Wandel: Ein Flugzeug am Himmel"/>
 <Question>**Was schätzen sie: Wie viele Kilometer mit einem Mittelklassewagen entsprechen einem Hin- und Rückflug auf die Malediven (2 x 8.000 Kilometer)?**</Question>
 <Answer>mehr als 19.000 km</Answer>
 <Answer correct>mehr als 25.000 km</Answer>
@@ -68,6 +69,7 @@ Wer auf eine Flugreise auf die Malediven verzichtet, spart laut [Umweltbundesamt
 Klimaschonender als Autos mit Verbrennungsmotor sind E-Autos und Hybrid-Fahrzeuge.
 
 <Quiz>
+<QuizImage src="<QuizImage src="E-Auto-und-Klima-mauritius images- Johner.jpg"/>" alt="Klima-Schutz: Eine Frau hält das Ladekabel einer Strom-Zapfsäule an den Anschluss eines E-Autos."/>
 <Question>**Um bis zu wie viel Prozent lässt sich der Ausstoß an Treibhausgasen reduzieren, wenn man von einem Verbrenner- auf ein E-Auto wechselt?**</Question>
 <Answer>57 %</Answer>
 <Answer>63 %</Answer>
@@ -84,6 +86,7 @@ Satte 89 % an Treibhausgasen lassen sich mit einem E-Auto gegenüber einem Auto 
 Wer viel Fleisch ist, schadet dem Klima. Das trifft aber auch auf andere tierische Produkte zu.
 
 <Quiz>
+<QuizImage src="<QuizImage src="Fleisch-und-Klima-ddp-BO-Theißen.jpg"/>" alt="Klima-Wandel: An einer Selbstbedienungs-Fleisch-Theke greift eine Hand zu einer Packung Fleisch."/>
 <Question>**Welches dieser tierischen Produkte (in Kilo) schadet dem Klima am meisten?**</Question>
 <Answer correct>Rindfleisch</Answer>
 <Answer>Schweinefleisch</Answer>
@@ -100,6 +103,7 @@ Natürlich! Rindfleisch schadet dem Klima besonders stark - und das nicht nur du
 Vegetarisches und veganes Essen schont das Klima. Aber auch bei Obst und Gemüse gibt es große Unterschiede.
 
 <Quiz>
+<QuizImage src="<QuizImage src="Klima-Obst-und-Gemuese-wdr-picture-alliance-dpa-peter-kneffel.jpg"/>" alt="Klima-Wandel: Verschiedene Obst- und Gemüse-Sorten liegt eng aneinander."/>
 <Question>**Welches Obst oder Gemüse (in Kilo) ist klimafreundlicher als die anderen?**</Question>
 <Answer correct>Frische Karotten</Answer>
 <Answer>Ananas</Answer>
@@ -116,6 +120,7 @@ Nur wenige Treibhausgase entstehen zum Beispiel durch frische Karotten. Ein Kilo
 Auch die Herstellung und der Transport von Kleidung sind Mitverursacher der Klima-Krise.
 
 <Quiz>
+<QuizImage src="<QuizImage src="Klima-und-Kleidung-wdr-dpa-Jens Kalaene.jpg"/>" alt="Klima-Wandel: Kleidungstücke hängen dicht an dicht an Bügeln in einem Geschäft."/>
 <Question>**Wie viel Prozent der weltweiten Treibhausgasemissionen entstehen bei der Herstellung von Kleidung und Schuhen?**</Question>
 <Answer>3 %</Answer>
 <Answer>5 %</Answer>
@@ -128,12 +133,22 @@ Schätzungen zufolge verursacht die Modebranche 10 Prozent der weltweiten CO<sub
 
 <QuizScore
 images={{
-    0: "berthold-schneider-credit-jens-grossmann.jpg",
-    2: "richard-wagner-und-freunde_twitter.jpg",
+    0: "Klima-Wandel-Erde-brennt-picture-alliance-Gerard Bottino.jpg",
+    1: "Klima-Wandel-Erde-brennt-picture-alliance-Gerard Bottino.jpg",
+    2: "Weltkugel-WDR-picture-alliance -zoonar-Terry Papoulias.jpg",
+    3: "Weltkugel-WDR-picture-alliance -zoonar-Terry Papoulias.jpg",
+    4: "Klima-Schutz-Hand-haelt-Erde-picture alliance -Bildagentur-online-Ohde.jpg",
+    5: "Klima-Schutz-Hand-haelt-Erde-picture alliance -Bildagentur-online-Ohde.jpg",
+    6: "Klima-Schutz-Hand-haelt-Erde-picture alliance -Bildagentur-online-Ohde.jpg",
 }}
 texts={{
-    0: "Schade, das war wohl nix.",
-    2: "Gute Arbeit",
+    0: "Macht nichts! Jetzt wissen Sie mehr.",
+    1: "Immerhin! Jetzt wissen Sie mir.",
+    2: "Gut! Klima-Schutz ist Ihnen vertraut.",
+    3: "Gut! Sie kennen sich aus mit Klima-Schutz.",
+    4: "Sehr gut! Sie kennen sich aus mit Klima-Schutz.",
+    5: "Hervorragend! Fast alle Fragen richtig beantwortet.",  
+    6: "Ausgezeichnet! Sie kennen sich wirklich aus.",                    
 }}
 />
 
