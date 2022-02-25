@@ -29,17 +29,17 @@ import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore 
 
 Minim culpa ea nisi pariatur cillum quis excepteur deserunt ullamco mollit fugiat id reprehenderit. Sit reprehenderit duis sint in. Deserunt dolore Lorem eiusmod sint labore tempor. Adipisicing eiusmod cillum consequat anim non.
 
-## Quiz Beispiel 1
+## Wohnen
 
 <Quiz>
 <QuizImage src="berthold-schneider-credit-jens-grossmann.jpg" alt="Der Wuppertaler Opernintendant Berthold Schneider, fotografiert von Jens Grossmann" />
-<Question>**Hier könnte ihre Frage stehen?**</Question>
-<Answer>Foobar</Answer>
-<Answer correct>42</Answer>
-<Answer>Richtige Antwort</Answer>
-<Answer>Hier klicken!</Answer>
+<Question>**Wer wohnt, erzeugt CO2 - durch Warmwasser, Raumwärme, Beleuchtung, Elektrogeräte und Prozesswärme (Kochen/Waschen). Wie viel Prozent davon verursacht die Raumwärme? **</Question>
+<Answer>34 %</Answer>
+<Answer>57 %</Answer>
+<Answer correct>68 %</Answer>
+<Answer>81 %</Answer>
 <Result>
-Natürlich ist **42** die richtige Antwort. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+Richtig ist: Die Raumwärme verursacht mit **68 %** den mit Abstand größten CO2-Ausstoß im Bereich Wohnen, so das [Statistische Bundesamt](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Umwelt/UGR/private-haushalte/Publikationen/Downloads/haushalte-umwelt-pdf-5851319.html;jsessionid=C1016A413EE3ED349CA17A88F495C630.live712) für das Jahr 2019. Wer weniger heizt, schont das Klima. Jedes Grad weniger spart Heizenergie. Die anderen Anwendungsbereiche verursachen so viel CO2: Warmwasser 12 %, Elektrogeräte 11 %, Prozesswärme (Waschen/Kochen) 7 %, Beleuchtung 2 %.
 </Result>
 </Quiz>
 
