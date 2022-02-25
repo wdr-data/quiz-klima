@@ -146,31 +146,15 @@ texts={{
 }}
 />
 
-<Link title="Dies ist ein Beispiel für einen einzelnen Link" href="https://example.com/" />
-
 <LinkList links={[
 {
-title: "Dies ist ein Beispiel für eine Link-Liste",
-href: "https://example.com/",
+title: "WDR-Quiz: Wie weit sind wir im Kampf gegen den Klimawandel?",
+href: "https://data.wdr.de/ddj/co2/",
 },
 {
-title: "Dies ist noch ein Beispiel für eine Link-Liste",
-href: "https://example.com/",
+title: "Zurück zu WDR aktuell",
+href: "https://www1.wdr.de/nachrichten/index.html",
 },
 ]} />
-
-## Beispiel WSS Line Chart:
-
-<YDILine name="test_line"/>
-
-## Beispiel WSS Bar Chart:
-
-<YDIBar name="test"/>
-
-<Link title="Climate Clock" href="https://climateclock.world/" />
-
-<Quote author="Bo Burnham">20.000 years of this, 7 more to go</Quote>
-
-<Link title="That Funny Feeling, Bo Burnham" href="https://www.youtube.com/watch?v=ObOqq1knVxs" />
 
 <Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />
