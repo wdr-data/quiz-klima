@@ -14,12 +14,9 @@ cg3: 'Quiz'
 cg4: 'Klima'
 ---
 
-import DataWrapper from '../components/datawrapper/datawrapper.jsx'
 import Quote from '../components/quote/quote.jsx'
 import Webtrekk from '../components/webtrekk/webtrekk.jsx'
 import Sharing from '../components/sharing/sharing.jsx'
-import YDIBar from '../components/ydi/ydiBar.jsx'
-import YDILine from '../components/ydi/ydiLine.jsx'
 import { Link, LinkList } from '../components/link/link.jsx'
 import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore } from '../components/quiz/quiz.jsx'
 
