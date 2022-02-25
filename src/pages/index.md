@@ -22,9 +22,9 @@ import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore 
 
 ## Stellen Sie ihr Wissen auf die Probe
 
-# Das WDR-Quiz zum Klima-Schutz
+# Das WDR-Quiz zum Klimaschutz
 
-Welches Fleisch sollte man eher weniger essen, um den Klima-Wandel abzubremsen? Wie klimafreundlich sind E-Autos? Und wie viel Treibhausgase entstehen bei der Herstellung von Kleidung und Schuhen? Stellen Sie Ihr Wissen auf die Probe - mit dem WDR-Quiz zum Klima-Schutz!
+Welches Fleisch sollte man eher weniger essen, um den Klimawandel abzubremsen? Wie klimafreundlich sind E-Autos? Und wie viel Treibhausgase entstehen bei der Herstellung von Kleidung und Schuhen? Stellen Sie Ihr Wissen auf die Probe - mit dem WDR-Quiz zum Klimaschutz!
 
 ## <span style="color:black">Wohnen</span>
 
@@ -86,7 +86,7 @@ Wer viel Fleisch isst, schadet dem Klima. Das trifft aber auch auf andere tieris
 <Answer>Käse</Answer>
 <Answer>Insekten-Food</Answer>
 <Result>
-Besonders stark schadet **Rindfleisch** dem Klima - und das nicht nur durch CO~2~, sondern vor allem auch durch Methan. Alles zusammen entspricht ein Kilo Rindfleisch 13,6 Kilo CO~2~ (CO~2~-Äquivalente), so eine Berechnung des [Instituts für Energie- und Umweltforschung Heidelberg](https://www.ifeu.de/fileadmin/uploads/Reinhardt-Gaertner-Wagner-2020-Oekologische-Fu%C3%9Fabdruecke-von-Lebensmitteln-und-Gerichten-in-Deutschland-ifeu-2020.pdf). Andere tierische Produkte haben demnach diese CO~2~-Äquivalente: Schweinefleisch 4,6 kg, Hähnchen 5,5 kg, Fisch (Wildfang, Massenware, gefroren) 2,4 kg, Käse 5,7 kg. Bei der Produktion von einem Kilo Insekten-Food entstehen etwa 1,5 kg CO~2~-Äquivalente, so das [Umweltbundesamt](https://www.umweltbundesamt.de/publikationen/die-zukunft-im-blick-fleisch-der-zukunft) mit Verweis auf eine [Studie von 2015](https://doi.org/10.1007/s11367-015-0931-6).
+Besonders stark schadet **Rindfleisch** dem Klima - und das nicht nur durch CO~2~, sondern vor allem auch durch Methan. Alles zusammen entspricht ein Kilo Rindfleisch 13,6 Kilo CO~2~ (CO~2~-Äquivalente), so eine Berechnung des [Instituts für Energie- und Umweltforschung Heidelberg](https://www.ifeu.de/fileadmin/uploads/Reinhardt-Gaertner-Wagner-2020-Oekologische-Fu%C3%9Fabdruecke-von-Lebensmitteln-und-Gerichten-in-Deutschland-ifeu-2020.pdf). Andere tierische Produkte haben demnach diese CO~2~-Äquivalente: Schweinefleisch 4,6 kg, Hähnchen 5,5 kg, Fisch (Wildfang, gefrorene Massenware) 2,4 kg, Käse 5,7 kg, Butter 9,0 kg. Bei der Produktion von einem Kilo Insekten-Food entstehen etwa 1,5 kg CO~2~-Äquivalente, so das [Umweltbundesamt](https://www.umweltbundesamt.de/publikationen/die-zukunft-im-blick-fleisch-der-zukunft) mit Verweis auf eine [Studie von 2015](https://doi.org/10.1007/s11367-015-0931-6).
 </Result>
 </Quiz>
 
@@ -97,7 +97,7 @@ Vegetarisches und veganes Essen schont das Klima. Aber auch bei Obst und Gemüse
 <Quiz>
 <QuizImage src="Klima-Obst-und-Gemuese-wdr-picture-alliance-dpa-peter-kneffel.jpg" alt="Klima-Wandel: Verschiedene Obst- und Gemüse-Sorten liegt eng aneinander."/>
 <Question>**Welches Obst oder Gemüse (in Kilo) ist klimafreundlicher als die anderen?**</Question>
-<Answer correct>Frische Karotten</Answer>
+<Answer correct>Frische Möhren</Answer>
 <Answer>Ananas</Answer>
 <Answer>Tomaten aus Südeuropa</Answer>
 <Answer>Frische Winter-Erdbeeren</Answer>
@@ -108,7 +108,7 @@ Nur wenige Treibhausgase entstehen zum Beispiel durch **frische Möhren**. Ein K
 
 ## <span style="color:black">Kleidung</span>
 
-Auch die Herstellung und der Transport von Kleidung sind Mitverursacher der Klima-Krise.
+Auch die Herstellung und der Transport von Kleidung sind Mitverursacher der Klimakrise.
 
 <Quiz>
 <QuizImage src="Klima-und-Kleidung-wdr-dpa-Jens Kalaene.jpg" alt="Klima-Wandel: Kleidungstücke hängen dicht an dicht an Bügeln in einem Geschäft."/>
@@ -133,11 +133,11 @@ images={{
     6: "Klima-Schutz-Hand-haelt-Erde-picture alliance -Bildagentur-online-Ohde.jpg",
 }}
 texts={{
-    0: "Macht nichts! Jetzt wissen Sie mehr.",
-    1: "Immerhin! Jetzt wissen Sie mehr.",
-    2: "Nicht schlecht! Klima-Schutz ist Ihnen vertraut.",
-    3: "Gut! Sie kennen sich aus mit Klima-Schutz.",
-    4: "Sehr gut! Sie kennen sich aus mit Klima-Schutz.",
+    0: "Oha! Sehen Sie es positiv: Jetzt wissen Sie mehr.",
+    1: "Immerhin! Und jetzt wissen Sie noch mehr.",
+    2: "Nicht schlecht! Klimaschutz ist Ihnen vertraut.",
+    3: "Gut! Sie kennen sich aus mit Klimaschutz.",
+    4: "Sehr gut! Sie kennen sich aus mit Klimaschutz.",
     5: "Hervorragend! Fast alle Fragen richtig beantwortet.",
     6: "Ausgezeichnet! Sie kennen sich wirklich aus.",
 }}
