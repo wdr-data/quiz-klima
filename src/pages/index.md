@@ -1,8 +1,8 @@
 ---
-title: 'Das große WDR Klima-Quiz'
-description: Stellen Sie ihr Wissen auf die Probe beim großen WDR Klima-Quiz
+title: 'WDR-Quiz zum Klima-Schutz'
+description: Klima-Wandel: Das WDR-Quiz zum Klima-Schutz
 author: Jörn Seidel
-pub_date: '2021-02-28'
+pub_date: '2022-02-28'
 heroImage: 'richard-wagner-und-freunde.jpg'
 heroAlt: 'Richard Wagner und seine Freunde'
 heroCredit: 'Richard Wagner und seine Freunde'
@@ -25,9 +25,9 @@ import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore 
 
 ## Stellen Sie ihr Wissen auf die Probe
 
-# Das große WDR Klima-Quiz
+# Das WDR-Quiz zum Klima-Schutz
 
-Minim culpa ea nisi pariatur cillum quis excepteur deserunt ullamco mollit fugiat id reprehenderit. Sit reprehenderit duis sint in. Deserunt dolore Lorem eiusmod sint labore tempor. Adipisicing eiusmod cillum consequat anim non.
+Welches Fleisch sollte man eher weniger essen, um den Klima-Wandel bremsen? Wie klimafreundlich sind E-Autos? Und wie viel Treibhausgase entstehen bei er Herstellung von Kleidung und Schuhen? Stellen Sie Ihr Wissen auf die Probe - bei WDR-Quiz zum Klima-Schutz!
 
 ## Wohnen
 
