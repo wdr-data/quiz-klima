@@ -143,11 +143,13 @@ button .icon svg {
   display: block;
   transition: opacity 0.5s ease-in-out;
   opacity: 1;
+  visibility: visible;
 }
 
 .quiz .result .text[hidden] {
   display: block;
   opacity: 0;
+  visibility: hidden;
 }
 
 .quiz .result .text {
