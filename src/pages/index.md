@@ -145,32 +145,3 @@ texts={{
     6: "Ausgezeichnet! Sie kennen sich wirklich aus.",
 }}
 />
-
-<Link title="Dies ist ein Beispiel für einen einzelnen Link" href="https://example.com/" />
-
-<LinkList links={[
-{
-title: "Dies ist ein Beispiel für eine Link-Liste",
-href: "https://example.com/",
-},
-{
-title: "Dies ist noch ein Beispiel für eine Link-Liste",
-href: "https://example.com/",
-},
-]} />
-
-## Beispiel WSS Line Chart:
-
-<YDILine name="test_line"/>
-
-## Beispiel WSS Bar Chart:
-
-<YDIBar name="test"/>
-
-<Link title="Climate Clock" href="https://climateclock.world/" />
-
-<Quote author="Bo Burnham">20.000 years of this, 7 more to go</Quote>
-
-<Link title="That Funny Feeling, Bo Burnham" href="https://www.youtube.com/watch?v=ObOqq1knVxs" />
-
-<Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />
