@@ -34,7 +34,7 @@ Minim culpa ea nisi pariatur cillum quis excepteur deserunt ullamco mollit fugia
 Wer wohnt, erzeugt CO<sub>2</sub> - durch Warmwasser, Raumwärme, Beleuchtung, Elektrogeräte und Prozesswärme (Kochen/Waschen).
 
 <Quiz>
-<QuizImage src="berthold-schneider-credit-jens-grossmann.jpg" alt="Der Wuppertaler Opernintendant Berthold Schneider, fotografiert von Jens Grossmann" />
+<QuizImage src="Heizungsregler_Quelle_imago_photothek_Liesa_Johannssen.png" alt="Eine Hand dreht an einem Heizungsregler." />
 <Question>** Wie viel Prozent des gesamten CO<sub>2</sub>-Ausstoßes im Bereich Wohnen verursacht die Raumwärme? **</Question>
 <Answer>34 %</Answer>
 <Answer>57 %</Answer>
