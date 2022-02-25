@@ -1,5 +1,5 @@
 ---
-title: 'WDR-Quiz zum Klima-Schutz'
+title: 'WDR-Quiz zum Klimaschutz'
 description: 'Klimawandel: Das WDR-Quiz zum Klimaschutz'
 author: Jörn Seidel
 pub_date: '2022-02-28'
