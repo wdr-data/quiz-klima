@@ -29,7 +29,7 @@ import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore 
 
 Minim culpa ea nisi pariatur cillum quis excepteur deserunt ullamco mollit fugiat id reprehenderit. Sit reprehenderit duis sint in. Deserunt dolore Lorem eiusmod sint labore tempor. Adipisicing eiusmod cillum consequat anim non.
 
-## Quiz Beispiel
+## Quiz Beispiel 1
 
 <Quiz>
 <QuizImage src="berthold-schneider-credit-jens-grossmann.jpg" alt="Der Wuppertaler Opernintendant Berthold Schneider, fotografiert von Jens Grossmann" />
