@@ -57,7 +57,7 @@ Fliegen ist die klimaschädlichste Art sich fortzubewegen, sagt das Bundesumwelt
 <Answer>mehr als 28.000 km</Answer>
 <Answer>mehr als 34.000 km</Answer>
 <Result>
-Wer auf eine Flugreise auf die Malediven verzichtet, spart laut [Umweltbundesamt ](https://www.umweltbundesamt.de/umwelttipps-fuer-den-alltag/mobilitaet/flugreisen#gewusst-wie) etwa fünf Tonnen CO2 ein. Mit einem Mittelklassewagen könnte man demnach mehr als 25.000 Kilometer fahren (bei einem Verbrauch von 7 Litern pro 100 Kilometern).
+Wer auf eine Flugreise auf die Malediven verzichtet, spart laut [Umweltbundesamt ](https://www.umweltbundesamt.de/umwelttipps-fuer-den-alltag/mobilitaet/flugreisen#gewusst-wie) etwa fünf Tonnen CO2 ein. Mit einem Mittelklassewagen könnte man demnach mehr als **25.000 Kilometer** fahren (bei einem Verbrauch von 7 Litern pro 100 Kilometern).
 </Result>
 </Quiz>
 
@@ -73,7 +73,7 @@ Klimaschonender als Autos mit Verbrennungsmotor sind E-Autos und Hybrid-Fahrzeug
 <Answer>78 %</Answer>
 <Answer correct>89 %</Answer>
 <Result>
-Satte 89 % an Treibhausgasen lassen sich mit einem E-Auto gegenüber einem Auto mit Verbrennungsmotor einsparen. Mit einem Hybrid-Auto sind es immerhin 73 %. Zu diesem Ergebnis kommt eine Studie der [Universität der Bundeswehr München](https://www.unibw.de/home/news/elektrofahrzeuge-weisen-die-beste-CO2-bilanz-aus) vom Februar 2022. Verglichen wurden die Daten von 790 aktuellen Pkw-Modelle und -Varianten. Zu bedenken ist allerdings: Auch die Herstellung eines neuen Autos verursacht viele Treibhausgase.
+Satte **89 %** an Treibhausgasen lassen sich mit einem E-Auto gegenüber einem Auto mit Verbrennungsmotor einsparen. Mit einem Hybrid-Auto sind es immerhin 73 %. Zu diesem Ergebnis kommt eine Studie der [Universität der Bundeswehr München](https://www.unibw.de/home/news/elektrofahrzeuge-weisen-die-beste-CO2-bilanz-aus) vom Februar 2022. Verglichen wurden die Daten von 790 aktuellen Pkw-Modelle und -Varianten. Zu bedenken ist allerdings: Auch die Herstellung eines neuen Autos verursacht viele Treibhausgase.
 </Result>
 </Quiz>
 
@@ -89,7 +89,7 @@ Wer viel Fleisch isst, schadet dem Klima. Das trifft aber auch auf andere tieris
 <Answer>Käse</Answer>
 <Answer>Insekten-Food</Answer>
 <Result>
-Natürlich! Rindfleisch schadet dem Klima besonders stark - und das nicht nur durch CO2, sondern vor allem auch durch Methan. Alles zusammen entsprechen ein Kilo Rindfleisch 13,6 Kilo CO2 (CO2-Äquivalente), so eine Berechnung des [Instituts für Energie- und Umweltforschung Heidelberg](https://www.ifeu.de/fileadmin/uploads/Reinhardt-Gaertner-Wagner-2020-Oekologische-Fu%C3%9Fabdruecke-von-Lebensmitteln-und-Gerichten-in-Deutschland-ifeu-2020.pdf). Andere tierische Produkte haben demnach diese CO2-Äquivalente: Schweinefleisch 4,6 kg, Hähnchen 5,5 kg, Fisch (Wildfang, Massenware, gefroren) 2,4 kg, Käse 5,7 kg. Bei der Produktion von einem Kilo Insekten-Food entstehen etwa 1,5 kg CO2-Äquivalente, so das [Umweltbundesamt](https://www.umweltbundesamt.de/publikationen/die-zukunft-im-blick-fleisch-der-zukunft) mit Verweis auf eine [Studie von 2015](https://doi.org/10.1007/s11367-015-0931-6).
+Natürlich! **Rindfleisch** schadet dem Klima besonders stark - und das nicht nur durch CO2, sondern vor allem auch durch Methan. Alles zusammen entsprechen ein Kilo Rindfleisch 13,6 Kilo CO2 (CO2-Äquivalente), so eine Berechnung des [Instituts für Energie- und Umweltforschung Heidelberg](https://www.ifeu.de/fileadmin/uploads/Reinhardt-Gaertner-Wagner-2020-Oekologische-Fu%C3%9Fabdruecke-von-Lebensmitteln-und-Gerichten-in-Deutschland-ifeu-2020.pdf). Andere tierische Produkte haben demnach diese CO2-Äquivalente: Schweinefleisch 4,6 kg, Hähnchen 5,5 kg, Fisch (Wildfang, Massenware, gefroren) 2,4 kg, Käse 5,7 kg. Bei der Produktion von einem Kilo Insekten-Food entstehen etwa 1,5 kg CO2-Äquivalente, so das [Umweltbundesamt](https://www.umweltbundesamt.de/publikationen/die-zukunft-im-blick-fleisch-der-zukunft) mit Verweis auf eine [Studie von 2015](https://doi.org/10.1007/s11367-015-0931-6).
 </Result>
 </Quiz>
 
@@ -105,7 +105,7 @@ Vegetarisches und veganes Essen schont das Klima. Aber auch bei Obst und Gemüse
 <Answer>Tomaten aus Südeuropa</Answer>
 <Answer>Frische Winter-Erdbeeren</Answer>
 <Result>
-Nur wenige Treibhausgase entstehen zum Beispiel durch frische Karotten. Ein Kilo verursacht nach Angaben des [Instituts für Energie- und Umweltforschung Heidelberg](https://www.ifeu.de/fileadmin/uploads/Reinhardt-Gaertner-Wagner-2020-Oekologische-Fu%C3%9Fabdruecke-von-Lebensmitteln-und-Gerichten-in-Deutschland-ifeu-2020.pdf) 0,2 Kilo CO2-Äquivalente - so viel wie auch Kartoffeln oder Bio-Äpfel. Ananas verursacht im Schnitt 0,9 kg - Flug-Ananas allerdings 15,1 kg. Frische Winter-Erdbeeren verursachen 3,4 kg, regionale, saisonale Erdbeeren 0,3 kg, Tomaten aus Südeuropa (Freiland) 0,4 kg.
+Nur wenige Treibhausgase entstehen zum Beispiel durch **frische Karotten**. Ein Kilo verursacht nach Angaben des [Instituts für Energie- und Umweltforschung Heidelberg](https://www.ifeu.de/fileadmin/uploads/Reinhardt-Gaertner-Wagner-2020-Oekologische-Fu%C3%9Fabdruecke-von-Lebensmitteln-und-Gerichten-in-Deutschland-ifeu-2020.pdf) 0,2 Kilo CO2-Äquivalente - so viel wie auch Kartoffeln oder Bio-Äpfel. Ananas verursacht im Schnitt 0,9 kg - Flug-Ananas allerdings 15,1 kg. Frische Winter-Erdbeeren verursachen 3,4 kg, regionale, saisonale Erdbeeren 0,3 kg, Tomaten aus Südeuropa (Freiland) 0,4 kg.
 </Result>
 </Quiz>
 
@@ -121,7 +121,7 @@ Auch die Herstellung und der Transport von Kleidung sind Mitverursacher der Klim
 <Answer>7 %</Answer>
 <Answer correct>10 %</Answer>
 <Result>
-Schätzungen zufolge verursacht die Modebranche 10 Prozent der weltweiten CO2-Emissionen, informiert das [Europäische Parlament](https://www.europarl.europa.eu/news/de/headlines/society/20201208STO93327/umweltauswirkungen-von-textilproduktion-und-abfallen-infografik?). Das ist mehr als die internationale Luftfahrt und See-Schifffahrt zusammen (3,4 und 3,2 Prozent). Nach Angaben der [Europäischen Umweltagentur](https://www.eea.europa.eu/publications/textiles-in-europes-circular-economy/textiles-in-europe-s-circular-economy) wurden durch den Kauf von Textilien in der Europäischen Union im Jahr 2017 pro Person rund 654 kg CO2-Emissionen verursacht.
+Schätzungen zufolge verursacht die Modebranche **10 %** der weltweiten CO2-Emissionen, informiert das [Europäische Parlament](https://www.europarl.europa.eu/news/de/headlines/society/20201208STO93327/umweltauswirkungen-von-textilproduktion-und-abfallen-infografik?). Das ist mehr als die internationale Luftfahrt und See-Schifffahrt zusammen (3,4 und 3,2 Prozent). Nach Angaben der [Europäischen Umweltagentur](https://www.eea.europa.eu/publications/textiles-in-europes-circular-economy/textiles-in-europe-s-circular-economy) wurden durch den Kauf von Textilien in der Europäischen Union im Jahr 2017 pro Person rund 654 kg CO2-Emissionen verursacht.
 </Result>
 </Quiz>
 
@@ -138,7 +138,7 @@ images={{
 texts={{
     0: "Macht nichts! Jetzt wissen Sie mehr.",
     1: "Immerhin! Jetzt wissen Sie mir.",
-    2: "Gut! Klima-Schutz ist Ihnen vertraut.",
+    2: "Nicht schlecht! Klima-Schutz ist Ihnen vertraut.",
     3: "Gut! Sie kennen sich aus mit Klima-Schutz.",
     4: "Sehr gut! Sie kennen sich aus mit Klima-Schutz.",
     5: "Hervorragend! Fast alle Fragen richtig beantwortet.",
