@@ -34,16 +34,17 @@ Minim culpa ea nisi pariatur cillum quis excepteur deserunt ullamco mollit fugia
 Wer wohnt, erzeugt CO<sub>2</sub> - durch Warmwasser, Raumwärme, Beleuchtung, Elektrogeräte und Prozesswärme (Kochen/Waschen).
 
 <Quiz>
-<QuizImage src="Heizungsregler_Quelle_imago_photothek_Liesa_Johannssen.png" alt="Eine Hand dreht an einem Heizungsregler." />
+<QuizImage src="Heizungsregler_Quelle_imago_photothek_Liesa_Johannssen.png" alt="Eine Hand dreht an einem Heizungsregler."/>
 <Question>**Wie viel Prozent des gesamten CO<sub>2</sub>-Ausstoßes im Bereich Wohnen verursacht die Raumwärme?**</Question>
 <Answer>34 %</Answer>
 <Answer>57 %</Answer>
 <Answer correct>68 %</Answer>
 <Answer>81 %</Answer>
 <Result>
-Richtig ist: Die Raumwärme verursacht mit **68 %** den mit Abstand größten CO<sub>2</sub>-Ausstoß im Bereich Wohnen, so das [Statistische Bundesamt](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Umwelt/UGR/private-haushalte/Publikationen/Downloads/haushalte-umwelt-pdf-5851319.html;jsessionid=C1016A413EE3ED349CA17A88F495C630.live712) für das Jahr 2019. Wer weniger heizt, schont das Klima. Schon ein Grad weniger macht viel aus. Die anderen Anwendungsbereiche verursachen so viel CO<sub>2</sub>: Warmwasser 12 %, Elektrogeräte 11 %, Prozesswärme (Waschen/Kochen) 7 %, Beleuchtung 2 %.
+Richtig ist: Die Raumwärme verursacht mit **68 %** den mit Abstand größten CO-Ausstoß im Bereich Wohnen, so das [Statistische Bundesamt](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Umwelt/UGR/private-haushalte/Publikationen/Downloads/haushalte-umwelt-pdf-5851319.html;jsessionid=C1016A413EE3ED349CA17A88F495C630.live712) für das Jahr 2019. Wer weniger heizt, schont das Klima. Schon ein Grad weniger macht viel aus. Die anderen Anwendungsbereiche verursachen so viel CO2: Warmwasser 12 %, Elektrogeräte 11 %, Prozesswärme (Waschen/Kochen) 7 %, Beleuchtung 2 %.
 </Result>
 </Quiz>
+
 
 Sint pariatur aliquip anim magna fugiat occaecat ut ullamco eu non commodo eu do elit. Cillum ad occaecat veniam quis ea consequat duis sit voluptate eu. Aute ut fugiat qui nulla nulla amet et. Officia eu ea ipsum exercitation ipsum commodo est nisi cillum est cupidatat. Ad amet duis irure qui sint dolor eiusmod ut aliqua labore aliquip enim.
 
