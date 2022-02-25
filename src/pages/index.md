@@ -47,7 +47,7 @@ Richtig ist: Die Raumwärme verursacht mit **68 %** den mit Abstand größten CO
 </Quiz>
 
 
-## Fliegen
+## <span style="color:black">Fliegen</span>
 
 Fliegen ist die klimaschädlichste Art sich fortzubewegen, sagt das Bundesumweltamt. Dagegen sind sogar ältere Verbrenner-Autos klimaschonend.
 
@@ -64,7 +64,7 @@ Wer auf eine Flugreise auf die Malediven verzichtet, spart laut [Umweltbundesamt
 </Quiz>
 
 
-## E-Autos und Verbrenner
+## <span style="color:black">E-Autos und Verbrenner</span>
 
 Klimaschonender als Autos mit Verbrennungsmotor sind E-Autos und Hybrid-Fahrzeuge.
 
@@ -81,7 +81,7 @@ Satte 89 % an Treibhausgasen lassen sich mit einem E-Auto gegenüber einem Auto 
 </Quiz>
 
 
-## Tierische Produkte
+## <span style="color:black">Tierische Produkte</span>
 
 Wer viel Fleisch ist, schadet dem Klima. Das trifft aber auch auf andere tierische Produkte zu.
 
@@ -98,7 +98,7 @@ Natürlich! Rindfleisch schadet dem Klima besonders stark - und das nicht nur du
 </Quiz>
 
 
-## Obst und Gemüse
+## <span style="color:black">Obst und Gemüse</span>
 
 Vegetarisches und veganes Essen schont das Klima. Aber auch bei Obst und Gemüse gibt es große Unterschiede.
 
@@ -115,7 +115,7 @@ Nur wenige Treibhausgase entstehen zum Beispiel durch frische Karotten. Ein Kilo
 </Quiz>
 
 
-## Kleidung
+## <span style="color:black">Kleidung</span>
 
 Auch die Herstellung und der Transport von Kleidung sind Mitverursacher der Klima-Krise.
 
