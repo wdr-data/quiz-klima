@@ -149,9 +149,13 @@ title: "WDR-Quiz: Wie weit sind wir im Kampf gegen den Klimawandel?",
 href: "https://data.wdr.de/ddj/co2/",
 },
 {
+title: "WDR-Quiz: Wissen Sie ... wieviel Sie für Energie ausgeben?",
+href: "https://data.wdr.de/ddj/kosten-strom-gas-tipps-sparen-quiz/",
+},
+{
 title: "Mehr zu Klima und Klimawandel bei WDR aktuell",
 href: "https://www1.wdr.de/nachrichten/uebersicht-klima-100.html",
-},
+},          
 ]} />
 
 <Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />
