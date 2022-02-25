@@ -2,6 +2,7 @@ import React, { useMemo, useEffect } from 'react'
 import { useCallback, useState, useContext } from 'react'
 import classNames from 'class-names'
 import ReactMarkdown from 'react-markdown'
+import remarkSubSuper from 'remark-sub-super'
 import { v4 as uuid } from 'uuid'
 
 import { GlobalQuizContext } from '../../templates/globalQuizContext'
@@ -61,7 +62,13 @@ export const Image = (props) => {
 export const Question = ({ children }) => {
   return (
     <div className={styles.question}>
-      <ReactMarkdown source={children} />
+      <ReactMarkdown
+        source={children}
+        plugins={[remarkSubSuper]}
+        renderers={{
+          sub: 'sub',
+          sup: 'sup',
+        }} />
     </div>
   )
 }
@@ -146,7 +153,14 @@ export const Result = ({ children }) => {
         hidden={!confirmed}
         aria-hidden={confirmed ? 'false' : 'true'}
       >
-        <ReactMarkdown source={children} linkTarget="_blank" />
+        <ReactMarkdown
+          source={children}
+          plugins={[remarkSubSuper]}
+          renderers={{
+            sub: 'sub',
+            sup: 'sup',
+          }}
+          linkTarget="_blank" />
       </div>
     </div>
   )
