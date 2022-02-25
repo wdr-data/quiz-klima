@@ -35,7 +35,7 @@ Wer wohnt, erzeugt CO<sub>2</sub> - durch Warmwasser, Raumwärme, Beleuchtung, E
 
 <Quiz>
 <QuizImage src="Heizungsregler_Quelle_imago_photothek_Liesa_Johannssen.png" alt="Eine Hand dreht an einem Heizungsregler." />
-<Question>** Wie viel Prozent des gesamten CO<sub>2</sub>-Ausstoßes im Bereich Wohnen verursacht die Raumwärme? **</Question>
+<Question>**Wie viel Prozent des gesamten CO<sub>2</sub>-Ausstoßes im Bereich Wohnen verursacht die Raumwärme?**</Question>
 <Answer>34 %</Answer>
 <Answer>57 %</Answer>
 <Answer correct>68 %</Answer>
