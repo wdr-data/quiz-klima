@@ -35,13 +35,13 @@ Das Wohnen ist für einen großen Teil der privat verursachten Treibhausgabe ver
 
 <Quiz>
 <QuizImage src="Heizungsregler_Quelle_imago_photothek_Liesa_Johannssen.png" alt="Eine Hand dreht an einem Heizungsregler."/>
-<Question>**Wie viel Prozent des gesamten CO2-Ausstoßes im Bereich Wohnen verursacht die Raumwärme?**</Question>
+<Question>**Wie viel Prozent des gesamten CO~2~-Ausstoßes im Bereich Wohnen verursacht die Raumwärme?**</Question>
 <Answer>34 %</Answer>
 <Answer>57 %</Answer>
 <Answer correct>68 %</Answer>
 <Answer>81 %</Answer>
 <Result>
-Richtig ist: Die Raumwärme verursacht mit **68 %** den mit Abstand größten CO2-Ausstoß im Bereich Wohnen, so das [Statistische Bundesamt](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Umwelt/UGR/private-haushalte/Publikationen/Downloads/haushalte-umwelt-pdf-5851319.html;jsessionid=C1016A413EE3ED349CA17A88F495C630.live712) für das Jahr 2019. Wer weniger heizt, schont das Klima. Schon ein Grad weniger macht viel aus. Die anderen Anwendungsbereiche verursachen so viel CO2: Warmwasser 12 %, Elektrogeräte 11 %, Prozesswärme (Waschen/Kochen) 7 %, Beleuchtung 2 %.
+Richtig ist: Die Raumwärme verursacht mit **68 %** den mit Abstand größten CO~2~-Ausstoß im Bereich Wohnen, so das [Statistische Bundesamt](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Umwelt/UGR/private-haushalte/Publikationen/Downloads/haushalte-umwelt-pdf-5851319.html;jsessionid=C1016A413EE3ED349CA17A88F495C630.live712) für das Jahr 2019. Wer weniger heizt, schont das Klima. Schon ein Grad weniger macht viel aus. Die anderen Anwendungsbereiche verursachen so viel CO~2~: Warmwasser 12 %, Elektrogeräte 11 %, Prozesswärme (Waschen/Kochen) 7 %, Beleuchtung 2 %.
 </Result>
 </Quiz>
 
@@ -57,7 +57,7 @@ Fliegen ist die klimaschädlichste Art sich fortzubewegen, sagt das Bundesumwelt
 <Answer>mehr als 28.000 km</Answer>
 <Answer>mehr als 34.000 km</Answer>
 <Result>
-Wer auf eine Flugreise auf die Malediven verzichtet, spart laut [Umweltbundesamt ](https://www.umweltbundesamt.de/umwelttipps-fuer-den-alltag/mobilitaet/flugreisen#gewusst-wie) etwa fünf Tonnen CO2 ein. Mit einem Mittelklassewagen könnte man demnach mehr als **25.000 Kilometer** fahren (bei einem Verbrauch von 7 Litern pro 100 Kilometern).
+Wer auf eine Flugreise auf die Malediven verzichtet, spart laut [Umweltbundesamt ](https://www.umweltbundesamt.de/umwelttipps-fuer-den-alltag/mobilitaet/flugreisen#gewusst-wie) etwa fünf Tonnen CO~2~ ein. Mit einem Mittelklassewagen könnte man demnach mehr als **25.000 Kilometer** fahren (bei einem Verbrauch von 7 Litern pro 100 Kilometern).
 </Result>
 </Quiz>
 
@@ -89,7 +89,7 @@ Wer viel Fleisch isst, schadet dem Klima. Das trifft aber auch auf andere tieris
 <Answer>Käse</Answer>
 <Answer>Insekten-Food</Answer>
 <Result>
-Natürlich! **Rindfleisch** schadet dem Klima besonders stark - und das nicht nur durch CO2, sondern vor allem auch durch Methan. Alles zusammen entsprechen ein Kilo Rindfleisch 13,6 Kilo CO2 (CO2-Äquivalente), so eine Berechnung des [Instituts für Energie- und Umweltforschung Heidelberg](https://www.ifeu.de/fileadmin/uploads/Reinhardt-Gaertner-Wagner-2020-Oekologische-Fu%C3%9Fabdruecke-von-Lebensmitteln-und-Gerichten-in-Deutschland-ifeu-2020.pdf). Andere tierische Produkte haben demnach diese CO2-Äquivalente: Schweinefleisch 4,6 kg, Hähnchen 5,5 kg, Fisch (Wildfang, Massenware, gefroren) 2,4 kg, Käse 5,7 kg. Bei der Produktion von einem Kilo Insekten-Food entstehen etwa 1,5 kg CO2-Äquivalente, so das [Umweltbundesamt](https://www.umweltbundesamt.de/publikationen/die-zukunft-im-blick-fleisch-der-zukunft) mit Verweis auf eine [Studie von 2015](https://doi.org/10.1007/s11367-015-0931-6).
+Natürlich! **Rindfleisch** schadet dem Klima besonders stark - und das nicht nur durch CO~2~, sondern vor allem auch durch Methan. Alles zusammen entsprechen ein Kilo Rindfleisch 13,6 Kilo CO~2~ (CO~2~-Äquivalente), so eine Berechnung des [Instituts für Energie- und Umweltforschung Heidelberg](https://www.ifeu.de/fileadmin/uploads/Reinhardt-Gaertner-Wagner-2020-Oekologische-Fu%C3%9Fabdruecke-von-Lebensmitteln-und-Gerichten-in-Deutschland-ifeu-2020.pdf). Andere tierische Produkte haben demnach diese CO~2~-Äquivalente: Schweinefleisch 4,6 kg, Hähnchen 5,5 kg, Fisch (Wildfang, Massenware, gefroren) 2,4 kg, Käse 5,7 kg. Bei der Produktion von einem Kilo Insekten-Food entstehen etwa 1,5 kg CO~2~-Äquivalente, so das [Umweltbundesamt](https://www.umweltbundesamt.de/publikationen/die-zukunft-im-blick-fleisch-der-zukunft) mit Verweis auf eine [Studie von 2015](https://doi.org/10.1007/s11367-015-0931-6).
 </Result>
 </Quiz>
 
@@ -105,7 +105,7 @@ Vegetarisches und veganes Essen schont das Klima. Aber auch bei Obst und Gemüse
 <Answer>Tomaten aus Südeuropa</Answer>
 <Answer>Frische Winter-Erdbeeren</Answer>
 <Result>
-Nur wenige Treibhausgase entstehen zum Beispiel durch **frische Karotten**. Ein Kilo verursacht nach Angaben des [Instituts für Energie- und Umweltforschung Heidelberg](https://www.ifeu.de/fileadmin/uploads/Reinhardt-Gaertner-Wagner-2020-Oekologische-Fu%C3%9Fabdruecke-von-Lebensmitteln-und-Gerichten-in-Deutschland-ifeu-2020.pdf) 0,2 Kilo CO2-Äquivalente - so viel wie auch Kartoffeln oder Bio-Äpfel. Ananas verursacht im Schnitt 0,9 kg - Flug-Ananas allerdings 15,1 kg. Frische Winter-Erdbeeren verursachen 3,4 kg, regionale, saisonale Erdbeeren 0,3 kg, Tomaten aus Südeuropa (Freiland) 0,4 kg.
+Nur wenige Treibhausgase entstehen zum Beispiel durch **frische Karotten**. Ein Kilo verursacht nach Angaben des [Instituts für Energie- und Umweltforschung Heidelberg](https://www.ifeu.de/fileadmin/uploads/Reinhardt-Gaertner-Wagner-2020-Oekologische-Fu%C3%9Fabdruecke-von-Lebensmitteln-und-Gerichten-in-Deutschland-ifeu-2020.pdf) 0,2 Kilo CO~2~-Äquivalente - so viel wie auch Kartoffeln oder Bio-Äpfel. Ananas verursacht im Schnitt 0,9 kg - Flug-Ananas allerdings 15,1 kg. Frische Winter-Erdbeeren verursachen 3,4 kg, regionale, saisonale Erdbeeren 0,3 kg, Tomaten aus Südeuropa (Freiland) 0,4 kg.
 </Result>
 </Quiz>
 
@@ -121,7 +121,7 @@ Auch die Herstellung und der Transport von Kleidung sind Mitverursacher der Klim
 <Answer>7 %</Answer>
 <Answer correct>10 %</Answer>
 <Result>
-Schätzungen zufolge verursacht die Modebranche **10 %** der weltweiten CO2-Emissionen, informiert das [Europäische Parlament](https://www.europarl.europa.eu/news/de/headlines/society/20201208STO93327/umweltauswirkungen-von-textilproduktion-und-abfallen-infografik?). Das ist mehr als die internationale Luftfahrt und See-Schifffahrt zusammen (3,4 und 3,2 Prozent). Nach Angaben der [Europäischen Umweltagentur](https://www.eea.europa.eu/publications/textiles-in-europes-circular-economy/textiles-in-europe-s-circular-economy) wurden durch den Kauf von Textilien in der Europäischen Union im Jahr 2017 pro Person rund 654 kg CO2-Emissionen verursacht.
+Schätzungen zufolge verursacht die Modebranche **10 %** der weltweiten CO~2~-Emissionen, informiert das [Europäische Parlament](https://www.europarl.europa.eu/news/de/headlines/society/20201208STO93327/umweltauswirkungen-von-textilproduktion-und-abfallen-infografik?). Das ist mehr als die internationale Luftfahrt und See-Schifffahrt zusammen (3,4 und 3,2 Prozent). Nach Angaben der [Europäischen Umweltagentur](https://www.eea.europa.eu/publications/textiles-in-europes-circular-economy/textiles-in-europe-s-circular-economy) wurden durch den Kauf von Textilien in der Europäischen Union im Jahr 2017 pro Person rund 654 kg CO~2~-Emissionen verursacht.
 </Result>
 </Quiz>
 
