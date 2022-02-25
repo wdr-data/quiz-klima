@@ -152,8 +152,8 @@ title: "WDR-Quiz: Wie weit sind wir im Kampf gegen den Klimawandel?",
 href: "https://data.wdr.de/ddj/co2/",
 },
 {
-title: "Zurück zu WDR aktuell",
-href: "https://www1.wdr.de/nachrichten/index.html",
+title: "Mehr zu Klima und Klimawandel bei WDR aktuell",
+href: "https://www1.wdr.de/nachrichten/uebersicht-klima-100.html",
 },
 ]} />
 
