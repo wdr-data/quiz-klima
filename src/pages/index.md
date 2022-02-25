@@ -3,11 +3,11 @@ title: 'WDR-Quiz zum Klima-Schutz'
 description: Klima-Wandel: Das WDR-Quiz zum Klima-Schutz
 author: Jörn Seidel
 pub_date: '2022-02-28'
-heroImage: 'richard-wagner-und-freunde.jpg'
-heroAlt: 'Richard Wagner und seine Freunde'
-heroCredit: 'Richard Wagner und seine Freunde'
-sharingImageFacebook: 'richard-wagner-und-freunde_facebook.jpg'
-sharingImageTwitter: 'richard-wagner-und-freunde_twitter.jpg'
+heroImage: 'Klima-Schutz-Hand-haelt-Erde-picture alliance -Bildagentur-online-Ohde.jpg'
+heroAlt: 'Klima-Schutz: Eine Hand das Modell einer Weltkugel'
+heroCredit: 'Klima-Schutz: Eine Hand das Modell einer Weltkugel'
+sharingImageFacebook: 'Klima-Schutz-Hand-haelt-Erde-picture alliance -Bildagentur-online-Ohde.jpg'
+sharingImageTwitter: 'Klima-Schutz-Hand-haelt-Erde-picture alliance -Bildagentur-online-Ohde.jpg'
 cg1: 'WDR'
 cg2: 'Data'
 cg3: 'Quiz'
@@ -29,7 +29,8 @@ import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore 
 
 Welches Fleisch sollte man eher weniger essen, um den Klima-Wandel bremsen? Wie klimafreundlich sind E-Autos? Und wie viel Treibhausgase entstehen bei er Herstellung von Kleidung und Schuhen? Stellen Sie Ihr Wissen auf die Probe - bei WDR-Quiz zum Klima-Schutz!
 
-## Wohnen
+
+## <span style="color:black">Wohnen</span>
 
 Das Wohnen verursacht einen großen Teil der privat verursachten Treibhausgabe - durch Warmwasser, Raumwärme, Beleuchtung, Prozesswärme (Kochen/Waschen) und Elektrogeräte.
 
