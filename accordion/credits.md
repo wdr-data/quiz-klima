@@ -13,6 +13,6 @@
 
 ### Credits
 
-**Autor:** Jörn Seidel
+**Autor:** Jörn Seidel <br/>
 **Redaktion:** Axel Klauwer, Birgit Becker <br/>
 **Programmierung:** Jannes Höke
