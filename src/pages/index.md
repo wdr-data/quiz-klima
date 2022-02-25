@@ -27,11 +27,11 @@ import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore 
 
 # Das WDR-Quiz zum Klima-Schutz
 
-Welches Fleisch sollte man eher weniger essen, um den Klima-Wandel abzubremsen? Wie klimafreundlich sind E-Autos? Und wie viel Treibhausgase entstehen bei der Herstellung von Kleidung und Schuhen? Stellen Sie Ihr Wissen auf die Probe - beim WDR-Quiz zum Klima-Schutz!
+Welches Fleisch sollte man eher weniger essen, um den Klima-Wandel abzubremsen? Wie klimafreundlich sind E-Autos? Und wie viel Treibhausgase entstehen bei der Herstellung von Kleidung und Schuhen? Stellen Sie Ihr Wissen auf die Probe - mit dem WDR-Quiz zum Klima-Schutz!
 
 ## <span style="color:black">Wohnen</span>
 
-Das Wohnen verursacht einen großen Teil der privat verursachten Treibhausgabe - durch Warmwasser, Raumwärme, Beleuchtung, Prozesswärme (Kochen/Waschen) und Elektrogeräte.
+Das Wohnen ist für einen großen Teil der privat verursachten Treibhausgabe verantwortlich - durch Warmwasser, Raumwärme, Beleuchtung, Prozesswärme (Kochen/Waschen) und Elektrogeräte.
 
 <Quiz>
 <QuizImage src="Heizungsregler_Quelle_imago_photothek_Liesa_Johannssen.png" alt="Eine Hand dreht an einem Heizungsregler."/>
