@@ -4,8 +4,8 @@ description: Klima-Wandel: Das WDR-Quiz zum Klima-Schutz
 author: Jörn Seidel
 pub_date: '2022-02-28'
 heroImage: 'Klima-Schutz-Hand-haelt-Erde-picture alliance -Bildagentur-online-Ohde.jpg'
-heroAlt: 'Klima-Schutz: Eine Hand das Modell einer Weltkugel'
-heroCredit: 'Klima-Schutz: Eine Hand das Modell einer Weltkugel'
+heroAlt: 'Klima-Schutz: Zwei Hände halten das Modell einer Weltkugel'
+heroCredit: 'Klima-Schutz: Zwei Hände halten das Modell einer Weltkugel'
 sharingImageFacebook: 'Klima-Schutz-Hand-haelt-Erde-picture alliance -Bildagentur-online-Ohde.jpg'
 sharingImageTwitter: 'Klima-Schutz-Hand-haelt-Erde-picture alliance -Bildagentur-online-Ohde.jpg'
 cg1: 'WDR'
