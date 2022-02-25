@@ -4,8 +4,8 @@ description: 'Klima-Wandel: Das WDR-Quiz zum Klima-Schutz'
 author: Jörn Seidel
 pub_date: '2022-02-28'
 heroImage: 'Klima-Schutz-Hand-haelt-Erde-picture alliance -Bildagentur-online-Ohde.jpg'
-heroAlt: 'Klima-Schutz: Zwei Hände halten das Modell einer Weltkugel'
-heroCredit: 'Klima-Schutz: Zwei Hände halten das Modell einer Weltkugel'
+heroAlt: 'Klima-Schutz: Zwei Hände halten ein Modell der Weltkugel'
+heroCredit: 'Klima-Schutz: Zwei Hände halten ein Modell der Weltkugel'
 sharingImageFacebook: 'Klima-Schutz-Hand-haelt-Erde-picture alliance -Bildagentur-online-Ohde.jpg'
 sharingImageTwitter: 'Klima-Schutz-Hand-haelt-Erde-picture alliance -Bildagentur-online-Ohde.jpg'
 cg1: 'WDR'
@@ -27,7 +27,7 @@ import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore 
 
 # Das WDR-Quiz zum Klima-Schutz
 
-Welches Fleisch sollte man eher weniger essen, um den Klima-Wandel abzubremsen? Wie klimafreundlich sind E-Autos? Und wie viel Treibhausgase entstehen bei der Herstellung von Kleidung und Schuhen? Stellen Sie Ihr Wissen auf die Probe - bei WDR-Quiz zum Klima-Schutz!
+Welches Fleisch sollte man eher weniger essen, um den Klima-Wandel abzubremsen? Wie klimafreundlich sind E-Autos? Und wie viel Treibhausgase entstehen bei der Herstellung von Kleidung und Schuhen? Stellen Sie Ihr Wissen auf die Probe - beim WDR-Quiz zum Klima-Schutz!
 
 ## <span style="color:black">Wohnen</span>
 
@@ -79,7 +79,7 @@ Satte 89 % an Treibhausgasen lassen sich mit einem E-Auto gegenüber einem Auto 
 
 ## <span style="color:black">Tierische Produkte</span>
 
-Wer viel Fleisch ist, schadet dem Klima. Das trifft aber auch auf andere tierische Produkte zu.
+Wer viel Fleisch isst, schadet dem Klima. Das trifft aber auch auf andere tierische Produkte zu.
 
 <Quiz>
 <QuizImage src="Fleisch-und-Klima-ddp-BO-Theißen.jpg" alt="Klima-Wandel: An einer Selbstbedienungs-Fleisch-Theke greift eine Hand zu einer Packung Fleisch."/>
@@ -145,3 +145,32 @@ texts={{
     6: "Ausgezeichnet! Sie kennen sich wirklich aus.",
 }}
 />
+
+<Link title="Dies ist ein Beispiel für einen einzelnen Link" href="https://example.com/" />
+
+<LinkList links={[
+{
+title: "Dies ist ein Beispiel für eine Link-Liste",
+href: "https://example.com/",
+},
+{
+title: "Dies ist noch ein Beispiel für eine Link-Liste",
+href: "https://example.com/",
+},
+]} />
+
+## Beispiel WSS Line Chart:
+
+<YDILine name="test_line"/>
+
+## Beispiel WSS Bar Chart:
+
+<YDIBar name="test"/>
+
+<Link title="Climate Clock" href="https://climateclock.world/" />
+
+<Quote author="Bo Burnham">20.000 years of this, 7 more to go</Quote>
+
+<Link title="That Funny Feeling, Bo Burnham" href="https://www.youtube.com/watch?v=ObOqq1knVxs" />
+
+<Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />
