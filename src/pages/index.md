@@ -134,7 +134,7 @@ images={{
 }}
 texts={{
     0: "Macht nichts! Jetzt wissen Sie mehr.",
-    1: "Immerhin! Jetzt wissen Sie mir.",
+    1: "Immerhin! Jetzt wissen Sie mehr.",
     2: "Nicht schlecht! Klima-Schutz ist Ihnen vertraut.",
     3: "Gut! Sie kennen sich aus mit Klima-Schutz.",
     4: "Sehr gut! Sie kennen sich aus mit Klima-Schutz.",
