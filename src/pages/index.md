@@ -24,7 +24,7 @@ import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore 
 
 # Das WDR-Quiz zum Klimaschutz
 
-An diesem Montag stellt der Weltklimarat (IPCC) den neuen Weltklimabericht vor. Der Sechste Sachstandsbericht, wie er offiziell heißt, bewertet die Folgen des Klimawandels. Und das Papier zeigt auf, wie sich die Zukunft nachhaltig gestalten lässt.
+Am Montag hat der Weltklimarat (IPCC) den [neuen Weltklimabericht](https://www.tagesschau.de/ausland/europa/weltklimarat-115.html) vorgestellt. Das Papier bewertet die Folgen des Klimawandels. Und es zeigt auf, wie sich die Zukunft nachhaltig gestalten lässt.
  
 Nachhaltig kann sich auch jeder und jede Einzelne verhalten - und damit einen Beitrag zum Klimaschutz leisten. Aber wie am besten? Welches Fleisch sollte man weniger essen, um den Klimawandel abzubremsen? Wie klimafreundlich sind E-Autos wirklich? Und wie viel Treibhausgase entstehen bei der Herstellung von Kleidung und Schuhen? Stellen Sie Ihr Wissen auf die Probe - mit dem WDR-Quiz zum Klimaschutz! 
 
