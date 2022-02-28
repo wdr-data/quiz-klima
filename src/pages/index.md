@@ -3,11 +3,11 @@ title: 'WDR-Quiz zum Klimaschutz'
 description: 'Klimawandel: Das WDR-Quiz zum Klimaschutz'
 author: Jörn Seidel
 pub_date: '2022-02-28'
-heroImage: 'Klima-Schutz-Hand-haelt-Erde-picture alliance -Bildagentur-online-Ohde.jpg'
+heroImage: 'Klima-Schutz-Hand-haelt-Erde-picturealliance-Bildagentur-online-Ohde.jpg'
 heroAlt: 'Klimaschutz: Zwei Hände halten ein Modell der Weltkugel'
 heroCredit: 'Klimaschutz: Zwei Hände halten ein Modell der Weltkugel'
-sharingImageFacebook: 'Klima-Schutz-Hand-haelt-Erde-picture alliance -Bildagentur-online-Ohde.jpg'
-sharingImageTwitter: 'Klima-Schutz-Hand-haelt-Erde-picture alliance -Bildagentur-online-Ohde.jpg'
+sharingImageFacebook: 'Klima-Schutz-Hand-haelt-Erde-picturealliance-Bildagentur-online-Ohde.jpg'
+sharingImageTwitter: 'Klima-Schutz-Hand-haelt-Erde-picturealliance-Bildagentur-online-Ohde.jpg'
 cg1: 'WDR'
 cg2: 'Data'
 cg3: 'Quiz'
@@ -33,7 +33,7 @@ Nachhaltig kann sich auch jeder und jede Einzelne verhalten - und damit einen Be
 Das Wohnen ist für einen großen Teil der privat verursachten Treibhausgabe verantwortlich - durch Warmwasser, Raumwärme, Beleuchtung, Prozesswärme (Kochen/Waschen) und Elektrogeräte.
 
 <Quiz>
-<QuizImage src="Heizungsregler_Quelle_imago_photothek_Liesa_Johannssen.png" alt="Eine Hand dreht an einem Heizungsregler."/>
+<QuizImage src="Heizungsregler_Quelle_imago_photothek_Liesa_Johannssen.png.webp" alt="Eine Hand dreht an einem Heizungsregler."/>
 <Question>**Wie viel Prozent des gesamten CO~2~-Ausstoßes im Bereich Wohnen verursacht die Raumwärme?**</Question>
 <Answer>34 %</Answer>
 <Answer>57 %</Answer>
@@ -49,7 +49,7 @@ Richtig ist: Die Raumwärme verursacht mit **68 %** den mit Abstand größten CO
 Fliegen ist die klimaschädlichste Art, sich fortzubewegen, sagt das Umweltbundesamt. Dagegen sind sogar ältere Verbrenner-Autos klimaschonend.
 
 <Quiz>
-<QuizImage src="Flugzeug-und-Klima-imago-Robert-Michael.jpg" alt="Klima-Wandel: Ein Flugzeug am Himmel"/>
+<QuizImage src="Flugzeug-und-Klima-imago-Robert-Michael.jpg.webp" alt="Klima-Wandel: Ein Flugzeug am Himmel"/>
 <Question>**Was schätzen Sie: Wie viele Kilometer mit einem Mittelklassewagen entsprechen einem Hin- und Rückflug auf die Malediven (2 x 8.000 Kilometer)?**</Question>
 <Answer>mehr als 19.000 km</Answer>
 <Answer correct>mehr als 25.000 km</Answer>
@@ -65,7 +65,7 @@ Wer auf eine Flugreise auf die Malediven verzichtet, spart laut [Umweltbundesamt
 Klimaschonender als Autos mit Verbrennungsmotor sind E-Autos und Hybrid-Fahrzeuge.
 
 <Quiz>
-<QuizImage src="E-Auto-und-Klima-mauritius images- Johner.jpg" alt="Klima-Schutz: Eine Frau hält das Ladekabel einer Strom-Zapfsäule an den Anschluss eines E-Autos."/>
+<QuizImage src="E-Auto-und-Klima-mauritius images- Johner.jpg.webp" alt="Klima-Schutz: Eine Frau hält das Ladekabel einer Strom-Zapfsäule an den Anschluss eines E-Autos."/>
 <Question>**Um bis zu wie viel Prozent lässt sich der Ausstoß an Treibhausgasen reduzieren, wenn man von einem Verbrenner- auf ein E-Auto wechselt?**</Question>
 <Answer>57 %</Answer>
 <Answer>63 %</Answer>
@@ -81,7 +81,7 @@ Satte **89 %** an Treibhausgasen lassen sich mit einem E-Auto gegenüber einem A
 Wer viel Fleisch isst, schadet dem Klima. Das trifft aber auch auf andere tierische Produkte zu.
 
 <Quiz>
-<QuizImage src="Fleisch-und-Klima-ddp-BO-Theißen.jpg" alt="Klima-Wandel: An einer Selbstbedienungs-Fleisch-Theke greift eine Hand zu einer Packung Fleisch."/>
+<QuizImage src="Fleisch-und-Klima-ddp-BO-Theißen.jpg.webp" alt="Klima-Wandel: An einer Selbstbedienungs-Fleisch-Theke greift eine Hand zu einer Packung Fleisch."/>
 <Question>**Welches dieser tierischen Produkte (in Kilo) schadet dem Klima am meisten?**</Question>
 <Answer correct>Rindfleisch</Answer>
 <Answer>Schweinefleisch</Answer>
@@ -97,7 +97,7 @@ Besonders stark schadet **Rindfleisch** dem Klima - und das nicht nur durch CO~2
 Vegetarisches und veganes Essen schont das Klima. Aber auch bei Obst und Gemüse gibt es große Unterschiede.
 
 <Quiz>
-<QuizImage src="Klima-Obst-und-Gemuese-wdr-picture-alliance-dpa-peter-kneffel.jpg" alt="Klima-Wandel: Verschiedene Obst- und Gemüse-Sorten liegt eng aneinander."/>
+<QuizImage src="Klima-Obst-und-Gemuese-wdr-picture-alliance-dpa-peter-kneffel.jpg.webp" alt="Klima-Wandel: Verschiedene Obst- und Gemüse-Sorten liegt eng aneinander."/>
 <Question>**Welches Obst oder Gemüse (in Kilo) ist klimafreundlicher als die anderen?**</Question>
 <Answer correct>Frische Möhren</Answer>
 <Answer>Ananas</Answer>
@@ -113,7 +113,7 @@ Nur wenige Treibhausgase entstehen zum Beispiel durch **frische Möhren**. Ein K
 Auch die Herstellung und der Transport von Kleidung sind Mitverursacher der Klimakrise.
 
 <Quiz>
-<QuizImage src="Klima-und-Kleidung-wdr-dpa-Jens Kalaene.jpg" alt="Klima-Wandel: Kleidungstücke hängen dicht an dicht an Bügeln in einem Geschäft."/>
+<QuizImage src="Klima-und-Kleidung-wdr-dpa-Jens Kalaene.jpg.webp" alt="Klima-Wandel: Kleidungstücke hängen dicht an dicht an Bügeln in einem Geschäft."/>
 <Question>**Wie viel Prozent der weltweiten Treibhausgasemissionen entstehen bei der Herstellung von Kleidung und Schuhen?**</Question>
 <Answer>3 %</Answer>
 <Answer>5 %</Answer>
@@ -126,13 +126,13 @@ Schätzungen zufolge verursacht die Modebranche **10 %** der weltweiten CO~2~-Em
 
 <QuizScore
 images={{
-    0: "Klima-Wandel-Erde-brennt-picture-alliance-Gerard Bottino.jpg",
-    1: "Klima-Wandel-Erde-brennt-picture-alliance-Gerard Bottino.jpg",
-    2: "Weltkugel-WDR-picture-alliance -zoonar-Terry Papoulias.jpg",
-    3: "Weltkugel-WDR-picture-alliance -zoonar-Terry Papoulias.jpg",
-    4: "Klima-Schutz-Hand-haelt-Erde-picture alliance -Bildagentur-online-Ohde.jpg",
-    5: "Klima-Schutz-Hand-haelt-Erde-picture alliance -Bildagentur-online-Ohde.jpg",
-    6: "Klima-Schutz-Hand-haelt-Erde-picture alliance -Bildagentur-online-Ohde.jpg",
+    0: "Klima-Wandel-Erde-brennt-picture-alliance-Gerard Bottino.jpg.webp",
+    1: "Klima-Wandel-Erde-brennt-picture-alliance-Gerard Bottino.jpg.webp",
+    2: "Weltkugel-WDR-picture-alliance -zoonar-Terry Papoulias.jpg.webp",
+    3: "Weltkugel-WDR-picture-alliance -zoonar-Terry Papoulias.jpg.webp",
+    4: "Klima-Schutz-Hand-haelt-Erde-picturealliance-Bildagentur-online-Ohde.jpg",
+    5: "Klima-Schutz-Hand-haelt-Erde-picturealliance-Bildagentur-online-Ohde.jpg",
+    6: "Klima-Schutz-Hand-haelt-Erde-picturealliance-Bildagentur-online-Ohde.jpg",
 }}
 texts={{
     0: "Oha! Sehen Sie es positiv: Jetzt wissen Sie mehr.",
@@ -157,7 +157,7 @@ href: "https://data.wdr.de/ddj/kosten-strom-gas-tipps-sparen-quiz/",
 {
 title: "Mehr zu Klima und Klimawandel bei WDR aktuell",
 href: "https://www1.wdr.de/nachrichten/uebersicht-klima-100.html",
-},          
+},
 ]} />
 
 <Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />
